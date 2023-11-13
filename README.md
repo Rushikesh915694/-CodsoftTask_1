@@ -1,1 +1,3 @@
 # -CodsoftTask_1
+A to-do list in Python is essentially a program that allows users to manage and organize tasks. It can have features like adding tasks, marking tasks as completed, viewing the list of tasks, and possibly more complex functionalities depending on the desired features. 
+The implementation can vary, ranging from a simple console-based application to a more sophisticated graphical user interface (GUI) application.The basic structure of a to-do list in Python often involves the use of data structures like lists or dictionaries to store tasks, along with functions or methods to perform operations on these tasks. Users can interact with the to-do list by providing input through the console or GUI, and the program responds accordingly.
